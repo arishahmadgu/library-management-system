@@ -62,5 +62,5 @@ CREATE DATABASE library_db;
 ---
 
 ## 👨‍💻 Author
-- Your Name
-- [Your GitHub Profile](https://github.com/yourprofile)
+- Arish Ahamad
+- https://github.com/arishahmadgu
